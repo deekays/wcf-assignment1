@@ -1,0 +1,8 @@
+D:\Conestoga\.Semester1\gitHubCrap\wcf-assignment1\WcfService1\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+D:\Conestoga\.Semester1\gitHubCrap\wcf-assignment1\WcfService1\AssignmentOne\bin\Debug\AssignmentOne.exe
+D:\Conestoga\.Semester1\gitHubCrap\wcf-assignment1\WcfService1\AssignmentOne\bin\Debug\AssignmentOne.pdb
+D:\Conestoga\.Semester1\gitHubCrap\wcf-assignment1\WcfService1\AssignmentOne\obj\Debug\AssignmentOne.csproj.AssemblyReference.cache
+D:\Conestoga\.Semester1\gitHubCrap\wcf-assignment1\WcfService1\AssignmentOne\obj\Debug\AssignmentOne.csproj.SuggestedBindingRedirects.cache
+D:\Conestoga\.Semester1\gitHubCrap\wcf-assignment1\WcfService1\AssignmentOne\obj\Debug\AssignmentOne.csproj.CoreCompileInputs.cache
+D:\Conestoga\.Semester1\gitHubCrap\wcf-assignment1\WcfService1\AssignmentOne\obj\Debug\AssignmentOne.exe
+D:\Conestoga\.Semester1\gitHubCrap\wcf-assignment1\WcfService1\AssignmentOne\obj\Debug\AssignmentOne.pdb
